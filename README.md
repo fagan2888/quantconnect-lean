@@ -1,13 +1,13 @@
 ![LEAN Autocomplete Stubs](https://cdn.quantconnect.com/stubs/quantconnect-lean-stubs.png)
 
-# QuantConnect Lean Stubs
-## Autocomplete for Lean Python Algorithms
+# QuantConnect Lean Stubs/API
+## Autocomplete for Lean Python Algorithms and Additional Python Tools
 
-![Build status](https://api.travis-ci.com/QuantConnect/quantconnect-lean-stubs.svg?branch=master)
+![Build status](https://api.travis-ci.com/QuantConnect/quantconnect-lean.svg?branch=master)
 
 To install the package with pip, run the following command.
 
- * `pip install quantconnect-lean-stubs`
+ * `pip install quantconnect-lean`
 
 Use your preferred IDE, and code on your algorithm like normal.
 
