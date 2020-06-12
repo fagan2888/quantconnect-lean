@@ -1,3 +1,5 @@
+![LEAN Autocomplete Stubs](https://cdn.quantconnect.com/stubs/quantconnect-lean-stubs.png)
+
 # QuantConnect Lean Stubs
 ## Autocomplete for Lean Python Algorithms
 
