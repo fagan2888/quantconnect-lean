@@ -6,7 +6,7 @@ README = (CWD / 'README.md').read_text()
 
 setup(
     name='quantconnect-lean',
-    version='0.1.2',
+    version='0.1.3',
     description='API and Python type definitions for the Lean algorithmic trading engine',
     long_description=README,
     long_description_content_type='text/markdown',
@@ -29,7 +29,7 @@ setup(
         'QuantConnect.Securities': ['py.typed', '*.pyi'],
         'QuantConnect.Algorithm': ['py.typed', '*.pyi'],
     },
-    install_requires=['matplotlib', 'pandas', 'requests'],
+    install_requires=['pandas==0.25.3', 'requests'],
     python_requires='>=3.6'
 )
 
